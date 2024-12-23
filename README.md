@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="img.png" alt="Portfolio Banner" width="200" style="border-radius: 50%"/>
-  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://tharaka1103.github.io/portfolio)
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue.svg)](https://github.com/Tharaka1103)
 </div>
 
