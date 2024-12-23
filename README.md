@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="img.png" alt="Portfolio Banner" width="200" style="border-radius: 50%"/>
+  
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue.svg)](https://github.com/Tharaka1103)
 </div>
 
